@@ -8,6 +8,15 @@ This is just a GitHub profile parked in public. [tulio.org](https://tulio.org) i
 
 ---
 
+![days since last incident](https://img.shields.io/badge/days_since_last_incident:%20--2147483648-brightgreen)
+
+---
+
+![Campo Grande](campo_grande_isometric_art.png)  
+*Campo Grande, Brazil. This is where I am.*
+
+---
+
 ## TODO
 
 - write something here
