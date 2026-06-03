@@ -1,16 +1,19 @@
-## Hi there 👋
+# Túlio Ribeiro dos Anjos
 
-<!--
-**tulior/tulior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend systems engineer. Currently contracting at Velozient, unless this README is old, in which case I probably moved on and forgot to update it.
 
-Here are some ideas to get you started:
+Campo Grande, Brazil. Remote most of the time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is just a GitHub profile parked in public. [tulio.org](https://tulio.org) is the real thing.
+
+---
+
+## TODO
+
+- write something here
+- fix the thing above
+- stop pretending this page matters
+
+---
+
+*Last updated: probably not recently*
